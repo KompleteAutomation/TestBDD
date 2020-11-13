@@ -1,0 +1,5 @@
+stepDefinition\Hooks.class
+stepDefinition\StepsRediff.class
+stepDefinition\testSteps.class
+test\cucu\TestRunner.class
+test\cucu\TestRediff.class
